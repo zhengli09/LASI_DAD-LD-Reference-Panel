@@ -12,7 +12,7 @@ The specific LD resources include:
 1. Broad-scale LD blocks estimated by LDetect and fine-scale LD blocks estimated by BigLD
 2. Variation in LD (varLD) scores that evaluated the regional differences in LD between the LASI-DAD population and four super-populations from the 1000 Genomes Project (1000G), including the African (AFR), European (EUR), South Asian (SAS), and East Asian (EAS) populations. varLD scores were also evaluated across three Indian sub-populations from LASI-DAD.
 3. An LD lookup panel that calculated various LD statistics, including the squared Pearson correlation coefficient (r2) between the phased haplotypes and D-prime statistic (D’), for all pairs of genetic variants within 1 Mb of each other, with pairs of variants having r2 ≥ 0.2 reported in the lookup panel.
-4. An LD reference panel for the polygenic risk score (PRS) analysis. The panel is in the HDF5 format that can be directly used by [PRS-CS](https://github.com/getian107/PRScs).
+4. LD matrices for the polygenic risk score (PRS) analysis. The data is in the HDF5 format that can be directly used by [PRS-CS](https://github.com/getian107/PRScs).
 
 ## LD blocks
 [[Download LDetect Blocks]](https://www.dropbox.com/scl/fo/psu2w8yghmm2swcg032l2/AOxm7DgMPmFBIUSqkG-q5Mw?rlkey=f60seqkban8ofxb7wb2uexfh8&st=mh0e84jf&dl=1)
@@ -49,6 +49,6 @@ In the LD lookup panel, each file contains LD statistics for a single chromosome
 [[Download Chrmosome 21]](https://www.dropbox.com/scl/fi/lzjt670dt0ngqu7loix1i/chr21_ld.csv.gz?rlkey=ispvrcadteqsu6asjdsyk29z6&st=byxm13y6&dl=1)(~189MB)<br>
 [[Download Chrmosome 22]](https://www.dropbox.com/scl/fi/qmc0ovc9evd71os9nsc8a/chr22_ld.csv.gz?rlkey=clb5hy36jgc88n0vnt92b1gvh&st=1q9pkqvb&dl=1)(~177MB)<br>
 
-## LD reference panel
+## LD matrices
 [[Download]](https://www.dropbox.com/scl/fo/h5qcxre4nqkx9se9mexbv/AH0e6kOW9LWjFTJFRjjIL1w?rlkey=pvxb5uslsgvrbi5rekltgkzvo&st=yxnl5fwg&dl=1)(~7.1GB)<br>
 This panel can be directly used in the PRS analysis for GWAS of Indian or generally the South Asian ancestry. The files are in HDF5 format and a SNP information file is also included.

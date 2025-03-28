@@ -47,4 +47,5 @@ For LDetect blocks, columns of each file indicate the chromosome number, startin
 [[Download Chrmosome 22]]()(~177MB)<br>
 
 ## LD reference panel
-[[Download]]()(~7.1GB)
+[[Download]]()(~7.1GB)<br>
+This panel can be directly used in the PRS analysis for GWAS of Indian or generally the South Asian ancestry. The files are in HDF5 format and a SNP information file is also included.

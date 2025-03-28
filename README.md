@@ -19,8 +19,32 @@ The specific LD resources include:
 For LDetect blocks, columns of each file indicate the chromosome number, starting position of the block, and ending position of the block. For BigLD blocks, each file is in the RDS format that can be read by R with the function `readRDS`. The columns indicate the chrmosome number, indeces of the two boundary SNPs in the genotype data, SNP IDs of the two boundary SNPs, starting position of the block, ending position of the block, number of SNPs with a MAF ≥ 1% in the block, and the length of the LD block. BigLD blocks were also estimated in the four super-populations from the 1000 Genomes Project, in addition to the LASI-DAD population.
 
 ## varLD scores
-- [[Download]](https://www.dropbox.com/scl/fo/xzhobzwr9fn023vg26q4e/ADGiSW3joiceXjQBrOhSTW0?rlkey=oz9yet5avqndezh14c45dhj58&st=1zxoxgd6&dl=1) varLD scores evaluated between LASI-DAD and each of the four super-populations from 1000G. Columns in the file indicate the starting position and ending postion of the evaluated genomic window, varLD scores with respect to the AFR, EAS, EUR, or SAS population from 1000G, Pearson correlation coefficients of MAFs between LASI-DAD and the AFR, EAS, EUR, or SAS population from 1000G.
-- [[Download]](https://www.dropbox.com/scl/fo/woh72e6yg6k3mklgddtxa/AEH5ZnjptX6JMtK_vtusmu8?rlkey=y3eea9yl9t8iuqcb4t4wwptyx&st=sc3jhbsl&dl=0) varLD scores evaluated across three LASI-DAD sub-populations defined according to cline and proportion of Ancestral North Indian (%ANI) values. Columns in the file indicate the starting position and ending postion of the evaluated genomic window, varLD scores between the high %ANI group and low %ANI group, high %ANI group and the out-of-cline group, low %ANI group and the out-of-cline group.
+- [[Download]](https://www.dropbox.com/scl/fo/xzhobzwr9fn023vg26q4e/ADGiSW3joiceXjQBrOhSTW0?rlkey=oz9yet5avqndezh14c45dhj58&st=u7i0x55e&dl=1) varLD scores evaluated between LASI-DAD and each of the four super-populations from 1000G. Columns in the file indicate the starting position and ending postion of the evaluated genomic window, varLD scores with respect to the AFR, EAS, EUR, or SAS population from 1000G, Pearson correlation coefficients of MAFs between LASI-DAD and the AFR, EAS, EUR, or SAS population from 1000G.
+- [[Download]](https://www.dropbox.com/scl/fo/woh72e6yg6k3mklgddtxa/AEH5ZnjptX6JMtK_vtusmu8?rlkey=y3eea9yl9t8iuqcb4t4wwptyx&st=m4tu4hpq&dl=1) varLD scores evaluated across three LASI-DAD sub-populations defined according to cline and proportion of Ancestral North Indian (%ANI) values. Columns in the file indicate the starting position and ending postion of the evaluated genomic window, varLD scores between the high %ANI group and low %ANI group, high %ANI group and the out-of-cline group, low %ANI group and the out-of-cline group.
 
 ## LD lookup panel
+[[Download Chrmosome 1]](https://www.dropbox.com/scl/fi/p7o1vgk62xsgimoroi9eq/chr1_ld.csv.gz?rlkey=c54pg99llygjr6fi2pyy4x5d0&st=5ultde2b&dl=1)(~1.2GB)<br>
+[[Download Chrmosome 2]]()(~1.4GB)<br>
+[[Download Chrmosome 3]]<br>
+[[Download Chrmosome 4]]<br>
+[[Download Chrmosome 5]]<br>
+[[Download Chrmosome 6]]<br>
+[[Download Chrmosome 7]]<br>
+[[Download Chrmosome 8]]<br>
+[[Download Chrmosome 9]]<br>
+[[Download Chrmosome 10]]<br>
+[[Download Chrmosome 11]]<br>
+[[Download Chrmosome 12]]<br>
+[[Download Chrmosome 13]]<br>
+[[Download Chrmosome 14]]<br>
+[[Download Chrmosome 15]]<br>
+[[Download Chrmosome 16]]<br>
+[[Download Chrmosome 17]]<br>
+[[Download Chrmosome 18]]<br>
+[[Download Chrmosome 19]]<br>
+[[Download Chrmosome 20]]<br>
+[[Download Chrmosome 21]]<br>
+[[Download Chrmosome 22]]<br>
+
 ## LD reference panel
+[[Download]]()(~7.1GB)

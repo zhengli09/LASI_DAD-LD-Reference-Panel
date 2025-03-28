@@ -3,7 +3,7 @@
 
 This repository contains linkage disequilibrium (LD) resources estimated using high-coverage (30×) whole-genome sequencing (WGS) data from 2,680 Indian samples in the Longitudinal Aging Study in India-Diagnostic Assessment of Dementia (LASI-DAD) study. To use LASI-DAD as an imputation reference panel, please refer to the [Michigan imputation server](https://imputationserver.sph.umich.edu/#!). These resources come with the upcomping paper:
 
-> Li, Z. A reference panel for linkage disequilibrium and genotype imputation
+> Li, Z. et al. A reference panel for linkage disequilibrium and genotype imputation
 > using whole-genome sequencing data from 2,680 LASI-DAD participants across India
 
 The specific LD resources include:

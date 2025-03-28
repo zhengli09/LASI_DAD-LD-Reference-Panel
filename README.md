@@ -25,26 +25,26 @@ For LDetect blocks, columns of each file indicate the chromosome number, startin
 ## LD lookup panel
 [[Download Chrmosome 1]](https://www.dropbox.com/scl/fi/p7o1vgk62xsgimoroi9eq/chr1_ld.csv.gz?rlkey=c54pg99llygjr6fi2pyy4x5d0&st=5ultde2b&dl=1)(~1.2GB)<br>
 [[Download Chrmosome 2]]()(~1.4GB)<br>
-[[Download Chrmosome 3]]<br>
-[[Download Chrmosome 4]]<br>
-[[Download Chrmosome 5]]<br>
-[[Download Chrmosome 6]]<br>
-[[Download Chrmosome 7]]<br>
-[[Download Chrmosome 8]]<br>
-[[Download Chrmosome 9]]<br>
-[[Download Chrmosome 10]]<br>
-[[Download Chrmosome 11]]<br>
-[[Download Chrmosome 12]]<br>
-[[Download Chrmosome 13]]<br>
-[[Download Chrmosome 14]]<br>
-[[Download Chrmosome 15]]<br>
-[[Download Chrmosome 16]]<br>
-[[Download Chrmosome 17]]<br>
-[[Download Chrmosome 18]]<br>
-[[Download Chrmosome 19]]<br>
-[[Download Chrmosome 20]]<br>
-[[Download Chrmosome 21]]<br>
-[[Download Chrmosome 22]]<br>
+[[Download Chrmosome 3]]()(~1.3GB)<br>
+[[Download Chrmosome 4]]()(~1.4GB)<br>
+[[Download Chrmosome 5]]()(~1.2GB)<br>
+[[Download Chrmosome 6]]()(~1.5GB)<br>
+[[Download Chrmosome 7]]()(~1021MB)<br>
+[[Download Chrmosome 8]]()(~1.1GB)<br>
+[[Download Chrmosome 9]]()(~720MB)<br>
+[[Download Chrmosome 10]]()(~918MB)<br>
+[[Download Chrmosome 11]]()(~1.1GB)<br>
+[[Download Chrmosome 12]]()(~776MB)<br>
+[[Download Chrmosome 13]]()(~612MB)<br>
+[[Download Chrmosome 14]]()(~562MB)<br>
+[[Download Chrmosome 15]]()(~463MB)<br>
+[[Download Chrmosome 16]]()(~497MB)<br>
+[[Download Chrmosome 17]]()(~467MB)<br>
+[[Download Chrmosome 18]]()(~422MB)<br>
+[[Download Chrmosome 19]]()(~357MB)<br>
+[[Download Chrmosome 20]]()(~338MB)<br>
+[[Download Chrmosome 21]]()(~189MB)<br>
+[[Download Chrmosome 22]]()(~177MB)<br>
 
 ## LD reference panel
 [[Download]]()(~7.1GB)

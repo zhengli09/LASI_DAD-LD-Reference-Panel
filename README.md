@@ -24,10 +24,10 @@ For LDetect blocks, columns of each file indicate the chromosome number, startin
 
 ## LD lookup panel
 [[Download Chrmosome 1]](https://www.dropbox.com/scl/fi/p7o1vgk62xsgimoroi9eq/chr1_ld.csv.gz?rlkey=c54pg99llygjr6fi2pyy4x5d0&st=5ultde2b&dl=1)(~1.2GB)<br>
-[[Download Chrmosome 2]]()(~1.4GB)<br>
-[[Download Chrmosome 3]]()(~1.3GB)<br>
-[[Download Chrmosome 4]]()(~1.4GB)<br>
-[[Download Chrmosome 5]]()(~1.2GB)<br>
+[[Download Chrmosome 2]](https://www.dropbox.com/scl/fi/y236rldkwnmcdsa6y6z4o/chr2_ld.csv.gz?rlkey=qbceb8y1xgu0o88gvp66i2e2g&st=rd7r64na&dl=1)(~1.4GB)<br>
+[[Download Chrmosome 3]](https://www.dropbox.com/scl/fi/njefljx2n33ck9aqdt37e/chr3_ld.csv.gz?rlkey=uanf9ttwco8x5mj6ov62yrn2t&st=4nxt5hmh&dl=1)(~1.3GB)<br>
+[[Download Chrmosome 4]](https://www.dropbox.com/scl/fi/32ol3kq4rld0785kyb0p7/chr4_ld.csv.gz?rlkey=fun7wt3gt0uw8msoe4xugou00&st=pfkv6b3b&dl=1)(~1.4GB)<br>
+[[Download Chrmosome 5]](https://www.dropbox.com/scl/fi/n68umm3lngk46yky8rj5s/chr5_ld.csv.gz?rlkey=1qdiwlmnc5j33jygoxqnc4nrb&st=izma8qr3&dl=1)(~1.2GB)<br>
 [[Download Chrmosome 6]]()(~1.5GB)<br>
 [[Download Chrmosome 7]]()(~1021MB)<br>
 [[Download Chrmosome 8]]()(~1.1GB)<br>

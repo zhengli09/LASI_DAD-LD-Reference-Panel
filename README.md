@@ -16,3 +16,7 @@ The specific resources include:
 [[Download BigLD Blocks]](https://www.dropbox.com/scl/fo/bb3ahvza2zkf3dq6u2v4j/AJJ1k7yBxqIlTStYW9d59g4?rlkey=vn9q19trgcu08xsxa2fkj7avi&st=gp4bhno0&dl=1)
 
 For LDetect blocks, columns of each file indicate the chromosome number, starting position of the block, and ending position of the block. For BigLD blocks, each file is in the RDS format that can be read by R with the function `readRDS`. The columns indicate the chrmosome number, indeces of the two boundary SNPs in the genotype data, SNP IDs of the two boundary SNPs, starting position of the block, ending position of the block, number of SNPs with a MAF ≥ 1% in the block, and the length of the LD block. BigLD blocks were also estimated in the four super-populations from the 1000 Genomes Project, in addition to the LASI-DAD population.
+
+## varLD scores
+## LD lookup panel
+## LD reference panel

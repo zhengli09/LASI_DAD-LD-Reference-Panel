@@ -50,5 +50,5 @@ In the LD lookup panel, each file contains LD statistics for a single chromosome
 [[Download Chrmosome 22]](https://www.dropbox.com/scl/fi/qmc0ovc9evd71os9nsc8a/chr22_ld.csv.gz?rlkey=clb5hy36jgc88n0vnt92b1gvh&st=syrn92a8&dl=1)(~177MB)<br>
 
 ## LD matrices
-[[Download]](https://www.dropbox.com/scl/fo/h5qcxre4nqkx9se9mexbv/AH0e6kOW9LWjFTJFRjjIL1w?rlkey=pvxb5uslsgvrbi5rekltgkzvo&st=yxnl5fwg&dl=1)(~7.1GB)<br>
+[[Download]](https://www.dropbox.com/scl/fo/h5qcxre4nqkx9se9mexbv/AH0e6kOW9LWjFTJFRjjIL1w?rlkey=50ivfhufxq8spn8wvrzx5sqap&st=a6ghg4aj&dl=1)(~7.1GB)<br>
 This panel can be directly used in the PRS analysis for GWAS of Indian or generally the South Asian ancestry. The files are in HDF5 format and a SNP information file is also included.
